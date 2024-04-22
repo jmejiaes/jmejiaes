@@ -1,5 +1,5 @@
 <h1 align="center">👋 Soy Juan Esteban Mejía</h1>
-<h3 align="center">Data Scientist en formación | Estudiante de Ing. de Sistemas y Estadística</h3>
+<h3 align="center">Data Scientist  | Estudiante de Ing. de Sistemas y Estadística</h3>
 
 - 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región**
 
