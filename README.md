@@ -1,17 +1,21 @@
 <h1 align="center">👋, Soy Juan Esteban Mejía</h1>
-<h3 align="center">Data Scientist | Estudiante de Ing. de Sistemas y Estadística</h3>
-- 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región** - 🌱 Actualmente estoy aprendiendo **Deep Learning, Vision Artificial, MLOps, NoSQL Databases** - 📝 Integrante del Grupo Estudiantil TuringBox
-[https://www.linkedin.com/company/turingbox/](https://www.linkedin.com/company/turingbox/) - 📫 How to reach me **juanmejiadev@gmail.com**
-<hr />
+<h3 align="center">Data Scientist  | Estudiante de Ing. de Sistemas y Estadística</h3>
+
+- 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región**
+
+- 🌱 Actualmente estoy aprendiendo **Deep Learning, Vision Artificial, MLOps, NoSQL Databases**
+
+- 📝 Integrante del Grupo Estudiantil TuringBox [https://www.linkedin.com/company/turingbox/](https://www.linkedin.com/company/turingbox/)
+
+- 📫 How to reach me **juanmejiadev@gmail.com**
+
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/juanmejiadev" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanmejiadev" height="30" width="40" />
-    </a>
-    <a href="https://kaggle.com/juanemejia" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juanemejia" height="30" width="40" />
-    </a>
+<a href="https://linkedin.com/in/juanmejiadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanmejiadev" height="30" width="40" /></a>
+<a href="https://kaggle.com/juanemejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juanemejia" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
