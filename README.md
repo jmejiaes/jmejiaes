@@ -5,6 +5,8 @@
 
 - 🌱 Actualmente estoy aprendiendo **Deep Learning, Vision Artificial, MLOps, NoSQL Databases**
 
+- 🚀 Machine Learning Engineer Engineer in **AnyoneAI** [https://www.linkedin.com/school/anyone-ai/mycompany/verification/](https://www.linkedin.com/school/anyone-ai/mycompany/verification/)
+
 - 📝 Integrante del Grupo Estudiantil TuringBox [https://www.linkedin.com/company/turingbox/](https://www.linkedin.com/company/turingbox/)
 
 - 📫 How to reach me **juanmejiadev@gmail.com**
