@@ -1,5 +1,5 @@
 <h1 align="center">👋, Soy Juan Esteban Mejía</h1>
-<h3 align="center">Data Scientist  |  Machine Learnin Engineer | Estudiante de Ing. de Sistemas</h3>
+<h3 align="center">Data Scientist  |  Machine Learnind Engineer | Estudiante de Ing. de Sistemas</h3>
 
 - 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región**
 
