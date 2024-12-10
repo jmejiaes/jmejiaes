@@ -3,7 +3,7 @@
 
 - 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región**
 
-- 🌱 Actualmente estoy aprendiendo **Deep Learning, Vision Artificial, MLOps, NoSQL Databases**
+- 🌱 Actualmente estoy trabajando con **LLMS, Deep Learning, NoSQL Databases**
 
 - 🚀 Machine Learning Engineer Engineer in **AnyoneAI** [https://www.linkedin.com/school/anyone-ai/mycompany/verification/](https://www.linkedin.com/school/anyone-ai/mycompany/verification/)
 
