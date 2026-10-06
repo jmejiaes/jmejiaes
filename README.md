@@ -1,13 +1,8 @@
 <h1 align="center">👋, Soy Juan Esteban Mejía</h1>
-<h3 align="center">Data Scientist  |  Machine Learning Engineer | Estudiante de Ing. de Sistemas</h3>
+<h3 align="center">Software engineer |  Machine Learning Engineer</h3>
 
-- 🔭 Estoy buscando **Trabajar en proyectos que impulsen el crecimiento de la región**
 
-- 🌱 Actualmente estoy trabajando con **LLMS, Deep Learning, NoSQL Databases**
-
-- 🚀 Machine Learning Engineer Engineer in **AnyoneAI** [https://www.linkedin.com/school/anyone-ai/mycompany/verification/](https://www.linkedin.com/school/anyone-ai/mycompany/verification/)
-
-- 📝 Integrante del Grupo Estudiantil TuringBox [https://www.linkedin.com/company/turingbox/](https://www.linkedin.com/company/turingbox/)
+- 🌱 Actualmente estoy trabajando en Payana
 
 - 📫 How to reach me **juanmejiadev@gmail.com**
 
